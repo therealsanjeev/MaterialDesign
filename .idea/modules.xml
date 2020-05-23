@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desktop-XYZReader.iml" filepath="$PROJECT_DIR$/Desktop-XYZReader.iml" group="XYZReader" />
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" group="XYZStarterCodeAndroidX/XYZReader" />
+      <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader-XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader-XYZReader.iml" group="XYZReader/XYZReader" />
+      <module fileurl="file://$PROJECT_DIR$/XYZStarterCodeAndroidX.iml" filepath="$PROJECT_DIR$/XYZStarterCodeAndroidX.iml" group="XYZStarterCodeAndroidX" />
+    </modules>
+  </component>
+</project>
